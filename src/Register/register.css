@@ -1,0 +1,14 @@
+ .register-header{
+    max-width: 400px;
+    height: auto;
+    padding: 50px;
+    border-radius: 10px;
+}
+.register-title, span{
+    color: white;
+}
+.link{
+    text-decoration: none;
+    color:rgb(18, 196, 113);
+    font-size: 19px;
+}

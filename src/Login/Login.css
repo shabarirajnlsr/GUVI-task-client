@@ -1,0 +1,27 @@
+.inputmain{
+     border: 2px solid gray;
+     padding: 10px;
+     text-align: center;
+     border-radius: 4px;
+}
+.inputmain input{
+     border-top: none;
+     border-left: none;
+     border-right: none;
+     border-bottom-color: darkcyan;
+}
+.wholecontainer{
+     display: flex;
+     margin-left:500px;
+     margin-top: 200px;
+}
+.inputmain button{
+     margin: 5px auto;
+     background-color: darkcyan;
+     padding: 6px;
+     border-radius: 4px;
+     color:black;
+}
+.inputmain button:hover{
+     background-color: cornflowerblue;
+}
